@@ -1,0 +1,12 @@
+body {
+    padding-top: 2rem;
+}
+
+.screenshot-container {
+    max-height: 80vh;
+    overflow-y: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    background: #f8f9fa;
+}
