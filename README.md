@@ -34,7 +34,7 @@ screenshot-generator/
 
 1. **Clone the repository** (or download the files)
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/shuvomdhar/Screenshot-Generator.git
    cd screenshot-generator
    ```
 
